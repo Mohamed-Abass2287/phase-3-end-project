@@ -1,5 +1,6 @@
 # phase-3-end-project
-Description: A simple text-based adventure game where the player navigates a maze, encountering obstacles and treasures while making decisions to reach the exit.
+# Description: 
+A simple text-based adventure game where the player navigates a maze, encountering obstacles and treasures while making decisions to reach the exit.
 # Maze Quest Installation Guide
 1.Clone repository:
 ```bash
